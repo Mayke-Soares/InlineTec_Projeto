@@ -17,16 +17,17 @@ main {
 .Logo {
     float: left;
     padding: 13px;
-    width: 90%;
+    width: 70%;
 }
 
 .redes-sociais ul li {
+    margin-left: 10px; 
     display: inline-block;
     float: left;
     list-style: none;
 }
 
 .redes-sociais {
-    width: 20%;
-    float: left;
+    width: 25%;
+    float: right;
 }
