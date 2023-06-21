@@ -15,6 +15,18 @@ main {
 }
 
 .Logo {
+    float: left;
     padding: 13px;
+    width: 90%;
+}
 
+.redes-sociais ul li {
+    display: inline-block;
+    float: left;
+    list-style: none;
+}
+
+.redes-sociais {
+    width: 20%;
+    float: left;
 }
