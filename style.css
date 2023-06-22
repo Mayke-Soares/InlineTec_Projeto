@@ -1,7 +1,3 @@
-body {
-    width: 100%;
-    height: 100%;
-}
 .menu-principal {
     width: 100%;
     background-color: #DCDCDC;
@@ -16,18 +12,18 @@ main {
 
 .Logo {
     float: left;
-    padding: 22px;
-    width: 60%;
+    padding: 13px;
+    width: 50%;
 }
 
 .redes-sociais ul li {
-    margin-left: 15px; 
+    margin-left: 5px; 
     display: inline-block;
     float: left;
     list-style: none;
 }
 
 .redes-sociais {
-    width: 25%;
+    width: 22%;
     float: right;
 }
